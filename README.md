@@ -3,4 +3,7 @@
     
   That's all, have a good time.  
     
-  (What's more, it is a c/c++ program)
+  (What's more, it is a c/c++ program)  
+
+  This is my first c project with my partner Yichen.
+  
