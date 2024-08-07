@@ -3,5 +3,5 @@
     
   That's all, have a good time.  
     
-  This is my first c/c++ project with my partner Yichen.
+  My first c/c++ project with my partner Yichen.
   
