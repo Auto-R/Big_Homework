@@ -1,0 +1,3 @@
+Bigg-project\tong稿
+Bigg-project\tong稿\x64
+Bigg-project\tong稿\.vs
